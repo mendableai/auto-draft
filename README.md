@@ -8,7 +8,12 @@ Currently the system is able to read your inbox and determined which emails are 
 
 The system also uses Slack to send alerts to the user for manual review or intervention as needed.
 
-
+# Current Features
+- [x] Authenticate and Interact with Gmail API
+- [x] AI Classification (Customer Support)
+- [x] Draft Replies
+- [x] Slack Alerts
+- [ ] Add webhook to listen to incoming emails
 ## Prerequisites
 
 Google Cloud Platform (GCP) Project: Create a project and enable the Gmail API.
